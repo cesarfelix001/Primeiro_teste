@@ -20,8 +20,6 @@ sim ou com certeza ? (☞ﾟヮﾟ)☞
 """)
     print(f"{caso_A} ? é assim que se fala! vamos lá! ^(●'◡'●)^")
     
-
-
 elif mediador == "B" or mediador == "b":
     print("Excelente! o processo de aprendizagem será ainda mais tranquilo para você.")
 elif mediador == "C" or mediador == "c":
